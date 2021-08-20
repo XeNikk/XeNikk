@@ -1,3 +1,4 @@
-<p align='center'>
-  🤔
-</p>
+# 👋 Serwus
+
+- 👑 Lua king
+- 👨‍💻 JS master
