@@ -1,4 +1,4 @@
 # 👋 Serwus
 
-- 👑 Lua king
-- 👨‍💻 JS master
+
+### ⚡️Discord: XeN#9977
